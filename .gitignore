@@ -1,0 +1,19 @@
+# Local private working material (still review all public commits)
+private/
+confidential/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+# OS and temporary files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+# Generated media: store outside the public template repository
+*.mp4
+*.mov
+*.wav
+*.psd
+*.zip
